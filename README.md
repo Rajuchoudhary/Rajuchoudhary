@@ -1,4 +1,4 @@
-### Hi there 👋
+### Raju Choudhary | Full Stack Software Engineer 👋
 I am Raju Choudhary, I am full stack software engineer. I enjoy creating projects from scratch - Design - Development - Deployment. I have experience as UI/UX designer, Frontend developer and Bacckend Developer.
 
 <!--
