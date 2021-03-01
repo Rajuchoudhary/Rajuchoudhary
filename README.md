@@ -1,11 +1,6 @@
 ### Raju Choudhary | Full Stack Software Engineer 👋
 I am Raju Choudhary, I am full stack software engineer. I enjoy creating projects from scratch - Design - Development - Deployment. I have experience as UI/UX designer, Frontend developer and Bacckend Developer.
 
-<!--
-**Rajuchoudhary/Rajuchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Advanced React Course
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
