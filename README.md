@@ -10,9 +10,10 @@ I am Raju Choudhary, I am full stack software engineer. I enjoy creating project
  - ♥ Adobe XD - UI / UX
 
 - 🔭 I’m currently working on ... Advanced React Course ⚛
-- ### Code on GitHub - https://github.com/Rajuchoudhary/fast-food-app
+
 
 ### Upcoming Course - Advanced React with Hooks & Redux - Masterclass Bootcamp 2021
+- ### Code on GitHub - https://github.com/Rajuchoudhary/fast-food-app
 
 
 <img src='https://github.com/Rajuchoudhary/Rajuchoudhary/blob/main/Advanced%20React%20with%20Hooks%20%26%20Redux%20-%20Masterclass%20Bootcamp%202021.png' width='100%' />
