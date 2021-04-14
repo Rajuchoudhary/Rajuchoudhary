@@ -13,7 +13,7 @@ I am Raju Choudhary, I am full stack software engineer. I enjoy creating project
 
 
 ### Upcoming Course - Advanced React with Hooks & Redux - Masterclass Bootcamp 2021
-[]: # - ### Code on GitHub - https://github.com/Rajuchoudhary/fast-food-app
+<!--- - ### Code on GitHub - https://github.com/Rajuchoudhary/fast-food-app --->
 - ## Live Example - [Open App](https://fast-food-live.herokuapp.com/)
 
 
