@@ -7,12 +7,12 @@ I am Raju Choudhary, I am a full-stack software engineer. I enjoy creating proje
  - ⚛ React | Redux | Redux-Saga
  - 📱 Node | MongoDB
  - 💻 HTML, CSS, JavaScript
-<!--  - ♥ Adobe XD - UI / UX
+ - ♥ Adobe XD - UI / UX
 
-- 🔭 I’m currently working on ... Advanced React Course ⚛
+<!-- - 🔭 I’m currently working on ... Advanced React Course ⚛ -->
 
 
-### Upcoming Course - Advanced React with Hooks & Redux - Masterclass Bootcamp 2021
+<!-- ### Upcoming Course - Advanced React with Hooks & Redux - Masterclass Bootcamp 2021 -->
 <!--- - ### Code on GitHub - https://github.com/Rajuchoudhary/fast-food-app --->
 <!-- - ## Live Example - [Open App](https://fast-food-live.herokuapp.com/) -->
 
@@ -27,6 +27,6 @@ I am Raju Choudhary, I am a full-stack software engineer. I enjoy creating proje
 <!-- - Redux-Saga -->
 <!-- - Error Handling -->
 <!-- - Payment handling - Stripe & PayPal -->
-<!-- - and more... --> -->
+<!-- - and more... -->
 
 
