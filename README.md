@@ -13,7 +13,7 @@
 - ⌨️ Full keyboard navigation
 - 🔌 Plugin architecture
 
-[![npm](https://img.shields.io/npm/v/@bw-ui/bw-datepicker?color=blue&label=npm)](https://www.npmjs.com/package/@bw-ui/bw-datepicker)
+[![npm](https://img.shields.io/npm/v/@bw-ui/datepicker?color=blue&label=npm)](https://www.npmjs.com/package/@bw-ui/datepicker)
 [![GitHub](https://img.shields.io/github/stars/bw-ui/bw-datepicker?style=social)](https://github.com/bw-ui/bw-datepicker)
 
 ---
