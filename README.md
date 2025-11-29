@@ -7,6 +7,7 @@
 ### 🚀 Open Source
 
 **[@bw-ui/bw-datepicker](https://github.com/bw-ui/bw-datepicker)** - Lightweight, accessible datepicker with zero dependencies
+- [Live Demo](https://bw-ui.github.io/bw-datepicker)
 - 🎨 Dark mode, theming, CSS variables
 - ♿ WCAG 2.1 AA compliant
 - 📱 Mobile touch & swipe support
